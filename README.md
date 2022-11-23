@@ -6,6 +6,9 @@ I'm from Russia, but now I live in Turkey<br />
 <br />
 Technology stack:<br />
 `Python` `Django` `DRF` `PostgreSQL` `SQLite` `Git` `REST API` `JSON` `Docker`
+<br />
+Now I'm studying:<br />
+`JS`
 
 <!--
 **APanov13/APanov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
