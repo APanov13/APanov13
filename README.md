@@ -12,5 +12,5 @@ Now I'm studying:<br />
 <br />
 <br />
 To contact me:<br />
-[<img src="https://img.shields.io/badge/Telegram-Green?style=for-the-badge&logo=Telegram&logoColor=white"/> ](https://t.me/APAnov_IBU70)
+[<img src="https://img.shields.io/badge/Telegram-#37814A?style=for-the-badge&logo=Telegram&logoColor=white"/> ](https://t.me/APAnov_IBU70)
 
