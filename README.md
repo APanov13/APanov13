@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/git-blue?style=for-the-badge&logo=git&logoColor=black"/>
 
