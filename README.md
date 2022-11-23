@@ -3,7 +3,9 @@
 My name is Anton Panov, i'm Python-developer.<br />
 <br />
 I'm from Russia, but now I live in Turkey<br />
-Technology stack
+<br />
+Technology stack:<br />
+'Python' 'Django'
 
 <!--
 **APanov13/APanov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
