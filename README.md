@@ -11,5 +11,5 @@ Now I'm studying:<br />
 *`JS`* <br />
 <br />
 To contact me:<br />
-[<img src="https://img.shields.io/badge/Telegram-008000?style=for-the-badge&logo=Telegram&logoColor=white"/> ](https://t.me/APAnov_IBU70)
+[<img src="https://img.shields.io/badge/Telegram-#008000?style=for-the-badge&logo=Telegram&logoColor=white"/> ](https://t.me/APAnov_IBU70)
 
