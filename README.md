@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Anton Panov, i'm Python-developer.
+I'm from Russia, but now I live in Turkey
+
 <!--
 **APanov13/APanov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
