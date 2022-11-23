@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Anton Panov, i'm Python-developer.<br />
+My name is Anton Panov and i'm Python-developer.<br />
 <br />
-I'm from Russia, but now I live in Turkey<br />
+I'm from Russia, but now I live in Turkey.<br />
 <br />
 Technology stack:<br />
 `Python` `Django` `DRF` `PostgreSQL` `SQLite` `Git` `REST API` `JSON` `Docker`<br />
