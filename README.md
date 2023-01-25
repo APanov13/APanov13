@@ -5,7 +5,7 @@ My name is Anton Panov and i'm Python-developer.<br />
 I'm from Russia, but now I live in Turkey.<br />
 <br />
 Technology stack:<br />
-`Python` `Django` `DRF` `PostgreSQL` `SQLite` `Git` `REST API` `JSON` `Docker`<br />
+`Python` `Django` `DRF` `PostgreSQL` `SQLite` `Git` `REST API` `JSON` `Docker` `nginx` `Gunicorn`<br />
 <br />
 Now I'm studying:<br />
 *`JS`* <br />
