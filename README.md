@@ -5,7 +5,7 @@ My name is Anton Panov and i'm Python-developer.<br />
 I'm from Russia.<br />
 <br />
 Technology stack:<br />
-`Python` `Django` `DRF` `PostgreSQL` `Docker` `Git` `JSON` `nginx` `Gunicorn`<br />
+`Python` `Django` `DRF` `REST API` `PostgreSQL` `Docker` `Git` `JSON` `nginx` `Gunicorn`<br />
 <br />
 Now I'm studying:<br />
 *`JS`* and *`FastAPI`* <br />
